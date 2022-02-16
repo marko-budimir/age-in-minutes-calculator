@@ -54,10 +54,11 @@
         android:textStyle="bold"
         />
     <TextView
+        android:id="@+id/tvSelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="14.9.2021"
+        android:text="15.2.2022"
         android:textColor="@color/textBlue"
         android:textSize="20sp"
         />
@@ -69,10 +70,11 @@
         android:textSize="15sp"
         />
     <TextView
+        android:id="@+id/tvAgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="1440"
+        android:text="0"
         android:textColor="@color/textBlue"
         android:textSize="35sp"
         />
